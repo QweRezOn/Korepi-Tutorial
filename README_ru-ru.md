@@ -31,9 +31,20 @@
 
 ---
 
+[Ссылка на Release P](#version_p)
+
+[Ссылка на Release F](#version_F)
+
+[Ссылка на Гайд по версиям От MICAH's](#version_micah)
+
+[Ссылка на Отказ от ответственности](#disclaimer)
+
+---
+
 ## ❓ Начать работу с читом
 
 ### Release P
+<a name="version_p"></a>
 
 1. Перейдите на [страницу релизов](https://github.com/Korepi/keyauth-cpp-library/releases)
 2. Скачайте `P` версию (например. [P5](https://github.com/Korepi/keyauth-cpp-library/releases/tag/P5))
@@ -56,6 +67,7 @@
 
 ## ❓ Для фанатов (требуется роль Fans)
 
+<a name="version_F"></a>
 ### Release F
 
 1. Перейдите на [страницу релизов](https://github.com/Korepi/keyauth-cpp-library/releases)
@@ -84,7 +96,8 @@
 
 ## ❓ Гайд по версиям От MICAH's
 
-### Release M
+### Release Micah
+<a name="version_micah"></a>
 
 1. Перейдите на [страницу релизов](https://github.com/Korepi/korepi-online-data/releases)
 2. Скачайте Релиз `v0.x.x` (например. [v0.9.4](https://github.com/Korepi/korepi-online-data/releases/tag/v0.9.4))
@@ -108,6 +121,7 @@
 ---
 
 ## ⚠ Отказ от ответственности
+<a name="disclaimer"></a>
 
 - Используйте на свой страх и риск.
 - **Не распространяйте информацию о том, что вы используете стороннее программное обеспечение**.
